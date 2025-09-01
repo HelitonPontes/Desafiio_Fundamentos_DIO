@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Desafio_Fundamentos_DIO\Desafio_Fundamentos_DIO\bin\Debug\net5.0\Desafio_Fundamentos_DIO.exe
+C:\Users\User\source\repos\Desafio_Fundamentos_DIO\Desafio_Fundamentos_DIO\bin\Debug\net5.0\Desafio_Fundamentos_DIO.deps.json
+C:\Users\User\source\repos\Desafio_Fundamentos_DIO\Desafio_Fundamentos_DIO\bin\Debug\net5.0\Desafio_Fundamentos_DIO.runtimeconfig.json
+C:\Users\User\source\repos\Desafio_Fundamentos_DIO\Desafio_Fundamentos_DIO\bin\Debug\net5.0\Desafio_Fundamentos_DIO.runtimeconfig.dev.json
+C:\Users\User\source\repos\Desafio_Fundamentos_DIO\Desafio_Fundamentos_DIO\bin\Debug\net5.0\Desafio_Fundamentos_DIO.dll
+C:\Users\User\source\repos\Desafio_Fundamentos_DIO\Desafio_Fundamentos_DIO\bin\Debug\net5.0\ref\Desafio_Fundamentos_DIO.dll
+C:\Users\User\source\repos\Desafio_Fundamentos_DIO\Desafio_Fundamentos_DIO\bin\Debug\net5.0\Desafio_Fundamentos_DIO.pdb
+C:\Users\User\source\repos\Desafio_Fundamentos_DIO\Desafio_Fundamentos_DIO\obj\Debug\net5.0\Desafio_Fundamentos_DIO.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Desafio_Fundamentos_DIO\Desafio_Fundamentos_DIO\obj\Debug\net5.0\Desafio_Fundamentos_DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Desafio_Fundamentos_DIO\Desafio_Fundamentos_DIO\obj\Debug\net5.0\Desafio_Fundamentos_DIO.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Desafio_Fundamentos_DIO\Desafio_Fundamentos_DIO\obj\Debug\net5.0\Desafio_Fundamentos_DIO.AssemblyInfo.cs
+C:\Users\User\source\repos\Desafio_Fundamentos_DIO\Desafio_Fundamentos_DIO\obj\Debug\net5.0\Desafio_Fundamentos_DIO.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Desafio_Fundamentos_DIO\Desafio_Fundamentos_DIO\obj\Debug\net5.0\Desafio_Fundamentos_DIO.dll
+C:\Users\User\source\repos\Desafio_Fundamentos_DIO\Desafio_Fundamentos_DIO\obj\Debug\net5.0\ref\Desafio_Fundamentos_DIO.dll
+C:\Users\User\source\repos\Desafio_Fundamentos_DIO\Desafio_Fundamentos_DIO\obj\Debug\net5.0\Desafio_Fundamentos_DIO.pdb
+C:\Users\User\source\repos\Desafio_Fundamentos_DIO\Desafio_Fundamentos_DIO\obj\Debug\net5.0\Desafio_Fundamentos_DIO.genruntimeconfig.cache
